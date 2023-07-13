@@ -1,0 +1,12 @@
+D:\.net\Udeamy\CreateOne.Model\bin\Debug\net7.0\CreateOne.Model.deps.json
+D:\.net\Udeamy\CreateOne.Model\bin\Debug\net7.0\CreateOne.Model.dll
+D:\.net\Udeamy\CreateOne.Model\bin\Debug\net7.0\CreateOne.Model.pdb
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.csproj.AssemblyReference.cache
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.AssemblyInfoInputs.cache
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.AssemblyInfo.cs
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.csproj.CoreCompileInputs.cache
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.dll
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\refint\CreateOne.Model.dll
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\CreateOne.Model.pdb
+D:\.net\Udeamy\CreateOne.Model\obj\Debug\net7.0\ref\CreateOne.Model.dll

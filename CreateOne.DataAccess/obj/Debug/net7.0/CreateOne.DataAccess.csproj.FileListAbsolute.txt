@@ -1,0 +1,17 @@
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.csproj.AssemblyReference.cache
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.AssemblyInfoInputs.cache
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.AssemblyInfo.cs
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.csproj.CoreCompileInputs.cache
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.DataAccess.deps.json
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.DataAccess.runtimeconfig.json
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.DataAccess.dll
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.DataAccess.pdb
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.Model.dll
+D:\.net\Udeamy\CreateOne.DataAccess\bin\Debug\net7.0\CreateOne.Model.pdb
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.csproj.CopyComplete
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.dll
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\refint\CreateOne.DataAccess.dll
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.pdb
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\CreateOne.DataAccess.genruntimeconfig.cache
+D:\.net\Udeamy\CreateOne.DataAccess\obj\Debug\net7.0\ref\CreateOne.DataAccess.dll
